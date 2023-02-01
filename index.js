@@ -1,7 +1,7 @@
 const https = require('https');
 
 const query = "What is the meaning of life?";
-const apiKey = "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";
+const apiKey = "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";
 
 const options = {
   hostname: 'api.openai.com',
